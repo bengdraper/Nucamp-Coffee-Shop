@@ -44,3 +44,11 @@ header h2 {
 .accordion-button {
     background-color: #d3d3d3;
 }
+
+.carousel-caption {
+    background-color: #0007
+}
+
+.carousel {
+    border: solid #5637dd
+}
